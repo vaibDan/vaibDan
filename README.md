@@ -33,10 +33,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibDan&show_icons=true&theme=nightowl&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibDan&layout=compact&theme=nightowl)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaibDan&theme=nightowl)](https://git.io/streak-stats)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibDan&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,github,linux,nodejs,typescript)](https://skillicons.dev)
 
 ---
 
