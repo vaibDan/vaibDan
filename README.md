@@ -1,3 +1,9 @@
+### A snake that actually belongs in prod 🐍
+
+![snake](https://github.com/vaibDan/vaibDan/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### Hey, I'm Vaibhav 👋 — DevOps/Cloud Engineer building infrastructure that thinks back
 
 *🔭 Currently building autonomous AIOps agents on Kubernetes (observe → diagnose → act → record)*
