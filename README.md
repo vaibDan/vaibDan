@@ -36,8 +36,9 @@
 ### 📊 GitHub Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vaibDan&theme=nightowl)](https://git.io/streak-stats)
+
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibDan&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,github,linux,nodejs,typescript)](https://skillicons.dev)
+
 
 ---
 
