@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=600&lines=DevOps+Engineer+%7C+AWS+%7C+Kubernetes;Building+infra+that+thinks+back+%F0%9F%A4%96;kubectl+delete+pod+--all+%F0%9F%92%80;terraform+apply+and+pray+%F0%9F%99%8F)](https://git.io/typing-svg)
+
+---
+
 ### A snake that actually belongs in prod 🐍
 
 ![snake](https://github.com/vaibDan/vaibDan/blob/output/github-contribution-grid-snake-dark.svg)
@@ -39,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Streak Stats
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vaibDan&theme=nightowl)](https://git.io/streak-stats)
 
@@ -53,3 +57,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-dange-devops)
 [![X](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vaibhavDan56937)
 
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=nightowl)
